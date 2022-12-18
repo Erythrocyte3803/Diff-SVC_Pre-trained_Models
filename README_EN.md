@@ -1,9 +1,3 @@
----
-tags:
-- Diff-SVC
-- DiffSVC
-- Pre-trained Model
----
 # Pre-trained Models For Diff-SVC_nofs2
 [简体中文](README.md)  | English
 ## Explanation
